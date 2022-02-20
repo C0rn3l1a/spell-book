@@ -1,5 +1,7 @@
 {
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "cSpell.words": ["firestore"]
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.words": ["firestore"],
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true
 }
